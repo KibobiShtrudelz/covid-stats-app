@@ -1,5 +1,6 @@
 # covid-stats-app
 interview task
+## MOBILE FIRST responsive
 
 # DOD
 It is not done as description due to lack of time because of personal reasons for which I am trully sorry! 
